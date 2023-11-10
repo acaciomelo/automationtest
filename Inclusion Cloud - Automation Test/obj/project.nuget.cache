@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pu7TGGPqrcnsQcLXXWwttuYqx3yBfx5HnGHMlhyLUTVluE3Y68BSgH33/PkViHXirdpz/xrP30NZJDQHPTSDaw==",
+  "success": true,
+  "projectFilePath": "/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test.csproj",
+  "expectedPackageFiles": [
+    "/Users/acaciomelo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

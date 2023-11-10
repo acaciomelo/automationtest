@@ -1,0 +1,17 @@
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/bin/Debug/net6.0/Inclusion Cloud - Automation Test
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/bin/Debug/net6.0/Inclusion Cloud - Automation Test.deps.json
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/bin/Debug/net6.0/Inclusion Cloud - Automation Test.runtimeconfig.json
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/bin/Debug/net6.0/Inclusion Cloud - Automation Test.dll
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/bin/Debug/net6.0/Inclusion Cloud - Automation Test.pdb
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.csproj.AssemblyReference.cache
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.AssemblyInfoInputs.cache
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.AssemblyInfo.cs
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.csproj.CoreCompileInputs.cache
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.csproj.CopyComplete
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.dll
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/refint/Inclusion Cloud - Automation Test.dll
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.pdb
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/Inclusion Cloud - Automation Test.genruntimeconfig.cache
+/Users/acaciomelo/Projects/Inclusion Cloud - Automation Test/Inclusion Cloud - Automation Test/obj/Debug/net6.0/ref/Inclusion Cloud - Automation Test.dll
